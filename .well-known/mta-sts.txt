@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 mx: dsatfarndonfields-org.mail.protection.outlook.com
-max_age: 9962001 
+max_age: 996201
